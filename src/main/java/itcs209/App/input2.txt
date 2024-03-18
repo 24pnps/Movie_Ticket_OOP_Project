@@ -1,0 +1,4 @@
+Minion
+10:10
+D3
+NoMembership

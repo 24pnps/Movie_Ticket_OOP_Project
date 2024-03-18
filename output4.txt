@@ -1,0 +1,11 @@
+=========================
+      Movie Ticket
+-------------------------
+Theater: 4
+Movie name: Captain American
+Showtime: 14:14
+Seat: B6
+(discount: 0%)   -0.00
+-------------------------
+     Total: 200.00
+=========================
